@@ -1,0 +1,15 @@
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\bin\Debug\net8.0\PraticalExercices.exe
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\bin\Debug\net8.0\PraticalExercices.deps.json
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\bin\Debug\net8.0\PraticalExercices.runtimeconfig.json
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\bin\Debug\net8.0\PraticalExercices.dll
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\bin\Debug\net8.0\PraticalExercices.pdb
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\obj\Debug\net8.0\PraticalExercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\obj\Debug\net8.0\PraticalExercices.AssemblyInfoInputs.cache
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\obj\Debug\net8.0\PraticalExercices.AssemblyInfo.cs
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\obj\Debug\net8.0\PraticalExercices.csproj.CoreCompileInputs.cache
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\obj\Debug\net8.0\PraticalExercices.sourcelink.json
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\obj\Debug\net8.0\PraticalExercices.dll
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\obj\Debug\net8.0\refint\PraticalExercices.dll
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\obj\Debug\net8.0\PraticalExercices.pdb
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\obj\Debug\net8.0\PraticalExercices.genruntimeconfig.cache
+C:\Users\wellf\Desktop\GITBack\PraticalExercices\obj\Debug\net8.0\ref\PraticalExercices.dll

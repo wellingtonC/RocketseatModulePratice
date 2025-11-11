@@ -10,8 +10,8 @@ internal class DateTimer
         {
             Console.Clear();
             Console.WriteLine("Escolha como quer ver a data atual");
-            Console.WriteLine("1 - Formato completo (dia da semana, dia do mês, mês, ano, hora, minutos, segundos).\n2 - Apenas a data no formato\n" +
-                "3 - Apenas a hora no formato de 24 horas.\n4 - A data com o mês por extenso.");
+            Console.WriteLine("1 - Formato completo (dia da semana, dia do mês, mês, ano, hora, minutos, segundos).\n2 - Apenas a data no formato dd/mm/yyyy\n" +
+                "3 - Apenas a hora no formato de 24 horas.\n4 - O mês por extenso.");
             int choice = Convert.ToInt32(Console.ReadLine());
             if (choice > 0 && choice < 5)
             {
@@ -25,7 +25,7 @@ internal class DateTimer
                         break;
                     case 2:
                         Console.Clear();
-                        Console.WriteLine(today.ToString("dddd, dd'/'MM'/'yyyy"));
+                        Console.WriteLine(today.ToString("dd'/'MM'/'yyyy"));
                         break;
                     case 3:
                         Console.Clear();
@@ -42,7 +42,7 @@ internal class DateTimer
                 }
             }
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             Console.Clear();
             Console.WriteLine("O valor de escolha deve ser entre 1 e 4 ");

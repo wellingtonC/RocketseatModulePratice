@@ -9,7 +9,7 @@ internal class ValidadorPlaca
             Console.Clear();
             Console.WriteLine("Insira a placa para validação");
             string placa = Console.ReadLine();
-            if (placa.Count() < 7 && placa.Count() > 7)
+            if (placa!=null && placa.Count() < 7 && placa.Count() > 7)
             {
                 Console.WriteLine(" A placa deve ter 7 caracteres");
                 Console.Clear();

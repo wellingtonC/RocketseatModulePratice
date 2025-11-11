@@ -34,9 +34,9 @@ internal class Calculator
                     Console.ReadKey();
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                Console.WriteLine("Insira um valor valido" + ex.Message);
+                Console.WriteLine("Insira um valor valido");
 
             }
         }

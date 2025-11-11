@@ -4,3 +4,26 @@
 
 *.db-shm
 *.db-wal
+*.vsidx
+*.dll
+*.exe
+*db
+*pbd
+*cache
+*json
+*.vsidx
+/PraticalExercices/.vs/PraticalExercices/FileContentIndex/ef717981-af87-495d-a48e-9dccfd52d3d5.vsidx
+/PraticalExercices/.vs/PraticalExercices/v17/.suo
+/PraticalExercices/.vs/PraticalExercices/v17/DocumentLayout.backup.json
+/PraticalExercices/.vs/PraticalExercices/v17/DocumentLayout.json
+/PraticalExercices/bin/Debug/net8.0/PraticalExercices.dll
+/PraticalExercices/bin/Debug/net8.0/PraticalExercices.exe
+/PraticalExercices/bin/Debug/net8.0/PraticalExercices.pdb
+/PraticalExercices/obj/Debug/net8.0/ref/PraticalExercices.dll
+/PraticalExercices/obj/Debug/net8.0/refint/PraticalExercices.dll
+/PraticalExercices/obj/Debug/net8.0/apphost.exe
+/PraticalExercices/obj/Debug/net8.0/PraticalExercices.AssemblyInfoInputs.cache
+/PraticalExercices/obj/Debug/net8.0/PraticalExercices.dll
+/PraticalExercices/obj/Debug/net8.0/PraticalExercices.pdb
+/PraticalExercices/obj/Debug/net8.0/PraticalExercices.sourcelink.json
+/PraticalExercices/obj/Debug/net8.0/PraticalExercices.AssemblyInfo.cs

@@ -1,4 +1,4 @@
-﻿namespace PraticalExercices;
+﻿namespace PraticalExercices.Functions;
 internal class NameLastName
 {
     public void NomeSobrenome()

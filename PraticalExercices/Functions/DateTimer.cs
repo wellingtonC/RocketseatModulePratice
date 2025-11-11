@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace PraticalExercices;
+namespace PraticalExercices.Functions;
 internal class DateTimer
 {
     public void Date()

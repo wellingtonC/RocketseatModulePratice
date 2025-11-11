@@ -1,4 +1,6 @@
-﻿namespace PraticalExercices;
+﻿using PraticalExercices.Functions;
+
+namespace PraticalExercices;
 
 internal class Starter
 {

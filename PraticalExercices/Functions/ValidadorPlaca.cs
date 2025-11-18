@@ -27,7 +27,7 @@ internal class ValidadorPlaca
                         return false;
                     }
                 }
-                for (int y = 3; y < 6; y++) 
+                for (int y = 3; y <= 6; y++) 
                 {
                     if (!char.IsDigit(placa[y])) 
                     {
